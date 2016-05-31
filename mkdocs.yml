@@ -1,0 +1,6 @@
+site_name: 易腾WIKI列表
+pages:
+- 首页: index.md
+- 工具: tools.md
+- 联系我们: contact.md
+theme: readthedocs
